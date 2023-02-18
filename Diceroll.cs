@@ -5,7 +5,7 @@ namespace SnakeLadder{
     public class DiceRoll{
  
 
-        public static void Main(string[] args)
+        public static void Play()
         {
 
             int playerPosition = 0;
